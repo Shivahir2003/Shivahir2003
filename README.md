@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivahir2003&label=Profile%20views&color=0e75b6&style=flat" alt="shivahir2003" /> </p>
 
-<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="360px" >
 
 - 🔭 I’m currently Studying Computer Science At Darshan University
 - 👨‍🏫 I'm Teaching Assistent At Darshan University
