@@ -2,7 +2,7 @@
 <h3 align="center">I'm Tremendously Intrested in Computers</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivahir2003&label=Profile%20views&color=0e75b6&style=flat" alt="shivahir2003" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivahir2003&label=Profile%20views&color=0e75b6&style=flat" alt="shivahir2003" /> </p> -->
 
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="360px" >
 
